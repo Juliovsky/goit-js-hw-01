@@ -8,7 +8,7 @@
 // }else{
 //     alert ("Cancelled by user");
 // }
- 
+
 let userAge;
 let input = confirm("Do you want to buy some candies?");
 userChoise = confirm;
@@ -16,12 +16,8 @@ let message;
 
 console.log(input);
 
-if(userChoise){
+if (userChoise) {
     message = ('You have bought candies');
-}
-else{
+} else {
 
 }
-
-
-

@@ -3,11 +3,10 @@
 const total = 100;
 const ordered = 50;
 
-if(ordered>total){
+if (ordered > total) {
     console.log("There are not enough goods at the warehouse");
     // alert("There are not enough goods at the warehouse");
-}
-else{
+} else {
     // alert("The order is formed. Manager will call you back");
-    console.log ("The order is formed. Manager will call you back");
+    console.log("The order is formed. Manager will call you back");
 }
